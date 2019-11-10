@@ -1,0 +1,18 @@
+## Installing QtConsole  ###
+=============================
+cd /anaconda-dir 
+conda install -c anaconda qtconsole 
+
+
+or 
+1. open Anaconda Navigator > Environment
+2. click on update indexes 
+3. search packages - select Qtconsole then install
+
+## Opening QtConsole from Anaconda
+=================================
+1. Open Anaconda Navigator 
+2. Open JupyterLab 
+3. File > new > terminal 
+4. type jupyter Qtconsole 
+

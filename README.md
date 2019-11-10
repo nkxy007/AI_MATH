@@ -1,2 +1,2 @@
 # AI_MATH
-Msthematical operations in AI and ML
+Mathematical operations in AI and ML
